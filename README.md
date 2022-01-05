@@ -13,7 +13,7 @@
 
 </div>
 
-# <div align="center">Credit card fraud detection using Isolation forest and LOF</div>
+# <div align="center">Credit card fraud detection (Anamoly detection) using Isolation forest and LOF</div>
 
 
 ## Overview:
