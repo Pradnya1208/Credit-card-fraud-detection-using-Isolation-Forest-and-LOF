@@ -17,6 +17,12 @@
 
 
 ## Overview:
+Anomaly detection is the process of identifying unexpected items or events in data sets, which differ from the normal and it is often applied on unlabeled data which is known as unsupervised anomaly detection.
+Anomaly detection has two basic assumptions:
+- Anomalies only occur very rarely in the data.
+- Their features differ from the normal instances significantly.
+
+
 
 ## Dataset:
 [Credit card fraud detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
@@ -135,8 +141,11 @@ weighted avg       1.00      0.70      0.82     28481
 
 
 ## Related:
-[Credit card fraud detection using ensemble learning](https://github.com/Pradnya1208/Credit-card-fraud-detection-using-ensemble-learning-predictive-models)
+[Credit card fraud detection using ensemble learning](https://github.com/Pradnya1208/Credit-card-fraud-detection-using-ensemble-learning-predictive-models)<br>
 [Credit card fraud detection using Neural Networks](https://github.com/Pradnya1208/Credit-Card-Fraud-Detection-Using-Neural-Networks)
+
+## References:
+[Anamoly detection](https://towardsdatascience.com/anomaly-detection-for-dummies-15f148e559c1)
 
 ### Feedback
 
