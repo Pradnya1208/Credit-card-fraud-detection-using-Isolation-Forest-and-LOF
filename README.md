@@ -14,6 +14,9 @@
 </div>
 
 # <div align="center">Credit card fraud detection (Anamoly detection) using Isolation forest and LOF</div>
+<div align="center">
+<img src = "https://github.com/Pradnya1208/Credit-card-fraud-detection-using-Isolation-Forest-and-LOF/blob/main/output/anomaly_detection.png?raw=true" width="60%">
+</div>
 
 
 ## Overview:
