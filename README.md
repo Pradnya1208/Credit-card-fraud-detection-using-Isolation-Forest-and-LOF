@@ -41,8 +41,9 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 **Libraries:**  `NumPy` `pandas` `pylab` `matplotlib` `sklearn` 
 ## Understanding the Data:
 <img src = "https://github.com/Pradnya1208/Credit-card-fraud-detection-using-Isolation-Forest-and-LOF/blob/main/output/eda1.PNG?raw=true" width = "50%">
-<img src = "https://github.com/Pradnya1208/Credit-card-fraud-detection-using-Isolation-Forest-and-LOF/blob/main/output/eda2.PNG?raw=true" width = "60%>
-<img src = "https://github.com/Pradnya1208/Credit-card-fraud-detection-using-Isolation-Forest-and-LOF/blob/main/output/eda3.PNG?raw=true" width = "60%>
+<img src = "https://github.com/Pradnya1208/Credit-card-fraud-detection-using-Isolation-Forest-and-LOF/blob/main/output/eda2.PNG?raw=true" width = "60%">
+<img src = "https://github.com/Pradnya1208/Credit-card-fraud-detection-using-Isolation-Forest-and-LOF/blob/main/output/eda3.PNG?raw=true" width = "60%">
+
 ## Machine Learning Model Evaluation and Prediction:
 The types of algorithms we are going to use to try to do anomaly detection on this dataset are as follows:
 <br>
